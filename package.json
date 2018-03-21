@@ -12,7 +12,7 @@
   },
   "homepage": "",
   "scripts": {},
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^4.0.0",
     "eslint-config-vaadin": "latest",
     "eslint-plugin-html": "^4.0.0",

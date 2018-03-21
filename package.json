@@ -29,6 +29,7 @@
     "polymer-cli": "^1.6.0",
     "stylelint": "^8.0.0",
     "stylelint-config-vaadin": "latest",
+    "polymer-modulizer": "git://github.com/polymer/polymer-modulizer.git#master",
     "yargs": "^8.0.0"
   },
   "private": true
